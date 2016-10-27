@@ -11,12 +11,12 @@ namespace TreciZad
         static void Main(string[] args)
         {
             int[] integers = new[] { 1, 2, 2, 2, 3, 3, 4, 5 };
-            var strings = integers.GroupBy(w=>w);
-            
-            foreach (var item in strings)
+            var str = integers.GroupBy(w=>w).AsEnumerable().Select(s=>string.Format("Broj {0} se pojavljuje {1} puta.", s.Key, s.Count())).ToArray();
+            string[] strings = str;
+            for (int i=0;i<strings.Length;i++)
             {
-                Console.WriteLine("Broj {0} se pojavljuje {1} puta.",item.Key,item.Count());
-            }
+                Console.WriteLine(strings[i]);
+            }          
             Console.ReadLine();
 
             

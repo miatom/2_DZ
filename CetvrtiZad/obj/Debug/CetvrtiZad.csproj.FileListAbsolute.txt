@@ -6,3 +6,11 @@ C:\Users\Lenovo\Google disk\faks\c#\2_DZ\CetvrtiZad\obj\Debug\CetvrtiZad.pdb
 C:\Users\Lenovo\Google disk\faks\c#\2_DZ\CetvrtiZad\obj\Debug\CetvrtiZad.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo\Google disk\faks\c#\2_DZ\CetvrtiZad\bin\Debug\PrviZad.dll
 C:\Users\Lenovo\Google disk\faks\c#\2_DZ\CetvrtiZad\bin\Debug\PrviZad.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\CetvrtiZad\bin\Debug\CetvrtiZad.exe.config
+C:\Users\Lenovo\Documents\GitHub\2_DZ\CetvrtiZad\obj\Debug\CetvrtiZad.exe
+C:\Users\Lenovo\Documents\GitHub\2_DZ\CetvrtiZad\obj\Debug\CetvrtiZad.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\CetvrtiZad\bin\Debug\CetvrtiZad.exe
+C:\Users\Lenovo\Documents\GitHub\2_DZ\CetvrtiZad\bin\Debug\CetvrtiZad.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\CetvrtiZad\bin\Debug\PrviZad.dll
+C:\Users\Lenovo\Documents\GitHub\2_DZ\CetvrtiZad\bin\Debug\PrviZad.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\CetvrtiZad\obj\Debug\CetvrtiZad.csprojResolveAssemblyReference.cache

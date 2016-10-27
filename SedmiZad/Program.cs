@@ -14,13 +14,14 @@ namespace SedmiZad
             Console.WriteLine("Unesite pozitivni jednoznamenkasti  broj: ");
             string userInput = Console.ReadLine();
             int number;
-            Int32.TryParse(userInput, out number);                 
+            Int32.TryParse(userInput, out number);
             var rez = Task.Run(()=>FactorialDigitSum(number));
+            
                        
             Console.ReadLine();
         }
         
-        public static async Task FactorialDigitSum(int n)
+        public static async Task<int> FactorialDigitSum(int n)
         {
            
             int fakt = 1;
@@ -43,7 +44,7 @@ namespace SedmiZad
                 suma += item; 
             }
             Console.WriteLine("suma znamenaka iznosi: {0}", suma);
-            
+            return suma;
 
         }
     }

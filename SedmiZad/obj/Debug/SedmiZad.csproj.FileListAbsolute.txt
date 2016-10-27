@@ -4,3 +4,9 @@ C:\Users\Lenovo\Google disk\faks\c#\2_DZ\SedmiZad\bin\Debug\SedmiZad.pdb
 C:\Users\Lenovo\Google disk\faks\c#\2_DZ\SedmiZad\obj\Debug\SedmiZad.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo\Google disk\faks\c#\2_DZ\SedmiZad\obj\Debug\SedmiZad.exe
 C:\Users\Lenovo\Google disk\faks\c#\2_DZ\SedmiZad\obj\Debug\SedmiZad.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\SedmiZad\bin\Debug\SedmiZad.exe.config
+C:\Users\Lenovo\Documents\GitHub\2_DZ\SedmiZad\obj\Debug\SedmiZad.exe
+C:\Users\Lenovo\Documents\GitHub\2_DZ\SedmiZad\obj\Debug\SedmiZad.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\SedmiZad\bin\Debug\SedmiZad.exe
+C:\Users\Lenovo\Documents\GitHub\2_DZ\SedmiZad\bin\Debug\SedmiZad.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\SedmiZad\obj\Debug\SedmiZad.csprojResolveAssemblyReference.cache

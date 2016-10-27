@@ -21,25 +21,26 @@ namespace OsmiZad
         }
         private static int GetTheMagicNumber()
         {
-            return IKnowIGuyWhoKnowsAGuy();
+            return  Task<int>.Run(()=>IKnowIGuyWhoKnowsAGuy()).Result;
         }
-        private static int IKnowIGuyWhoKnowsAGuy()
+        private static async Task<int> IKnowIGuyWhoKnowsAGuy()
         {
-            
-            return Task<int>.Run(() => IKnowWhoKnowsThis(10)).Result + Task<int>.Run(() => IKnowWhoKnowsThis(5)).Result;
+            var rez1=await IKnowWhoKnowsThis(10);
+            var rez2 = await IKnowWhoKnowsThis(5);
+            return rez1 + rez2;
+            //return Task<int>.Run(() => IKnowWhoKnowsThis(10)).Result + Task<int>.Run(() => IKnowWhoKnowsThis(5)).Result;
             
         }
         private static async Task<int> IKnowWhoKnowsThis(int n)
         {
-            //await FactorialDigitSum(n);
-            return FactorialDigitSum(n).Result;
+            return await FactorialDigitSum(n);
+           // return FactorialDigitSum(n).Result;
         }
         public static async Task<int> FactorialDigitSum(int n)
         {
             
             int fakt = 1;
             int suma = 0;
-            //Task<int> result;
             for (int i = 1; i <= n; i++)
             {
                 fakt = fakt * i; //računamo n!
@@ -59,6 +60,7 @@ namespace OsmiZad
             }
             Console.WriteLine("suma znamenaka iznosi: {0}", suma);
             return suma;
+            
         }
 
 

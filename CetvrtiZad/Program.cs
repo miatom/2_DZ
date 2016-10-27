@@ -16,18 +16,27 @@ namespace CetvrtiZad
             Console.ReadLine();
         }
 
+        //metoda koja usporeduje svojstva
+        public static bool Compare(Student s1, Student s2)
+        {
+            if (s1.Name == s2.Name && s1.Jmbag == s2.Jmbag && s1.Gender == s2.Gender)
+            {
+                return true;
+            }
+            return false;
+        }
+
         public static void Example1()
         {
             var list = new List<Student>()
 
             {
             new Student ("Ivan", jmbag :" 001234567 ",spol: Gender.Male)
-
             };
-            var ivan = new Student("Ivan", jmbag: " 001234567 ",spol:Gender.Male); // nije dio liste
-            list.Add(ivan); //dodajemo ga u listu
+            var ivan = new Student("Ivan", jmbag: " 001234567 ",spol:Gender.Male); 
             
-            bool anyIvanExists = list.Any(s=> s.Name == "Ivan"); // vratit će true
+            
+            bool anyIvanExists = list.Any(s=> Compare(s,ivan));
             Console.WriteLine(anyIvanExists);
 
         }
@@ -55,9 +64,6 @@ namespace CetvrtiZad
         public string Name { get; set; }
         public string Jmbag { get; set; }
         public Gender Gender { get; set; }
-        private List<Student> listaStudenata;
-
-
         public Student(string name, string jmbag,Gender spol)
         {
             
@@ -65,14 +71,12 @@ namespace CetvrtiZad
             Jmbag = jmbag;
             Gender = spol;
         }
-
-        
-        
+   
     }
     public enum Gender
     {
         Male, Female
     }
-    
+
 
 }
