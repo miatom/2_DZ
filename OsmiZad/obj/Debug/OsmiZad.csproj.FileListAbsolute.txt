@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\OsmiZad\bin\Debug\OsmiZad.exe.config
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\OsmiZad\bin\Debug\OsmiZad.exe
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\OsmiZad\bin\Debug\OsmiZad.pdb
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\OsmiZad\obj\Debug\OsmiZad.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\OsmiZad\obj\Debug\OsmiZad.exe
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\OsmiZad\obj\Debug\OsmiZad.pdb

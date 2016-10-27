@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\TreciZad\bin\Debug\TreciZad.exe.config
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\TreciZad\bin\Debug\TreciZad.exe
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\TreciZad\bin\Debug\TreciZad.pdb
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\TreciZad\obj\Debug\TreciZad.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\TreciZad\obj\Debug\TreciZad.exe
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\TreciZad\obj\Debug\TreciZad.pdb

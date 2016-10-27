@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\PrviZad\bin\Debug\PrviZad.dll
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\PrviZad\bin\Debug\PrviZad.pdb
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\PrviZad\bin\Debug\IGenericList.dll
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\PrviZad\bin\Debug\IGenericList.pdb
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\PrviZad\obj\Debug\PrviZad.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\PrviZad\obj\Debug\PrviZad.dll
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\PrviZad\obj\Debug\PrviZad.pdb

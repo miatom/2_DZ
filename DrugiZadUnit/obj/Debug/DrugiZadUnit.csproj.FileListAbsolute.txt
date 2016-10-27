@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\DrugiZadUnit\bin\Debug\DrugiZadUnit.dll
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\DrugiZadUnit\bin\Debug\DrugiZadUnit.pdb
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\DrugiZadUnit\bin\Debug\IGenericList.dll
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\DrugiZadUnit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\DrugiZadUnit\bin\Debug\PrviZad.dll
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\DrugiZadUnit\bin\Debug\Sucelje_1ZAD.dll
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\DrugiZadUnit\bin\Debug\IGenericList.pdb
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\DrugiZadUnit\bin\Debug\PrviZad.pdb
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\DrugiZadUnit\bin\Debug\Sucelje_1ZAD.pdb
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\DrugiZadUnit\obj\Debug\DrugiZadUnit.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\DrugiZadUnit\obj\Debug\DrugiZadUnit.dll
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\DrugiZadUnit\obj\Debug\DrugiZadUnit.pdb

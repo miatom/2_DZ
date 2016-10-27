@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\SestiZad\bin\Debug\SestiZad.exe.config
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\SestiZad\bin\Debug\SestiZad.exe
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\SestiZad\bin\Debug\SestiZad.pdb
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\SestiZad\obj\Debug\SestiZad.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\SestiZad\obj\Debug\SestiZad.exe
+C:\Users\Lenovo\Google disk\faks\c#\2_DZ\SestiZad\obj\Debug\SestiZad.pdb
