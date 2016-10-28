@@ -48,10 +48,28 @@ namespace DrugiZadUnit
             ITodoRepository repository = new TodoRepository();
             repository.Update(null);
         }
+
+        [TestMethod]
+        public void SuccessfulUpdate()
+        {
+            try
+            {
+                ITodoRepository repository = new TodoRepository();
+                TodoItem item = new TodoItem("Apple");
+                repository.Add(item);
+                repository.Update(item);
+            }
+            catch (ArgumentNullException ex)
+            {
+                Console.WriteLine(ex.Message);
+                return;
+            }
+        }
+
         //get
         [TestMethod]
         [ExpectedException(typeof(ArgumentException))]
-        public void GetGuid()
+        public void GetEmptyId()
         {
             ITodoRepository repository = new TodoRepository();
             TodoItem item = new TodoItem("Apple");
@@ -59,8 +77,25 @@ namespace DrugiZadUnit
             item.Id = Guid.Empty;
             // repository.Get(g);
             repository.Get(item.Id);
-
         }
+
+        [TestMethod]
+        public void SuccessfulGet()
+        {
+            try
+            {
+                ITodoRepository repository = new TodoRepository();
+                TodoItem item = new TodoItem("Apple");
+                repository.Add(item);
+                repository.Get(item.Id);
+            }
+            catch(ArgumentException ex)
+            {
+                Console.WriteLine(ex.Message);
+                return;
+            }
+        }
+
         //remove
         [TestMethod]
         [ExpectedException(typeof(ArgumentException))]
@@ -74,10 +109,27 @@ namespace DrugiZadUnit
 
         }
 
+        [TestMethod]
+        public void SuccessfulRemove()
+        {
+            try
+            {
+                ITodoRepository repository = new TodoRepository();
+                TodoItem item = new TodoItem("Apple");
+                repository.Add(item);
+                repository.Remove(item.Id);
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine(ex.Message);
+                return;
+            }
+        }
+
         //MarkAsCompleted
         [TestMethod]
         [ExpectedException(typeof(ArgumentException))]
-        public void MarkGuid()
+        public void MarkEmptyId()
         {
             ITodoRepository repository = new TodoRepository();
             TodoItem item = new TodoItem("Apple");
@@ -85,6 +137,23 @@ namespace DrugiZadUnit
             item.Id = Guid.Empty;
             repository.MarkAsCompleted(item.Id);
         }
+
+        [TestMethod]
+        public void MarkSuccessful()
+        {
+            try
+            {
+                ITodoRepository repository = new TodoRepository();
+                TodoItem item = new TodoItem("Apple");
+                repository.Add(item);
+                repository.MarkAsCompleted(item.Id);
+            }
+            catch (ArgumentException)
+            {
+                return;
+            }
+        }
+
         //GetAll
         [TestMethod]
         public void GetAllFromEmptyRepository()
@@ -100,6 +169,24 @@ namespace DrugiZadUnit
                 return;
             }
             Assert.Fail("database is empty!");
+        }
+
+        [TestMethod]
+        public void GetAllFromRepository()
+        {
+            try
+            {
+                ITodoRepository repository = new TodoRepository();
+                List<TodoItem> lista = new List<TodoItem>();
+                TodoItem item = new TodoItem("Book");
+                repository.Add(item);
+                lista = repository.GetAll();
+            }
+            catch (InvalidOperationException)
+            {
+                return;
+            }
+
         }
 
         //GetActive

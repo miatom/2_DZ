@@ -6,3 +6,11 @@ C:\Users\Lenovo\Google disk\faks\c#\2_DZ\PetiZad\bin\Debug\CetvrtiZad.pdb
 C:\Users\Lenovo\Google disk\faks\c#\2_DZ\PetiZad\obj\Debug\PetiZad.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo\Google disk\faks\c#\2_DZ\PetiZad\obj\Debug\PetiZad.exe
 C:\Users\Lenovo\Google disk\faks\c#\2_DZ\PetiZad\obj\Debug\PetiZad.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\PetiZad\bin\Debug\PetiZad.exe.config
+C:\Users\Lenovo\Documents\GitHub\2_DZ\PetiZad\bin\Debug\PetiZad.exe
+C:\Users\Lenovo\Documents\GitHub\2_DZ\PetiZad\bin\Debug\PetiZad.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\PetiZad\bin\Debug\CetvrtiZad.exe
+C:\Users\Lenovo\Documents\GitHub\2_DZ\PetiZad\bin\Debug\CetvrtiZad.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\PetiZad\obj\Debug\PetiZad.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\2_DZ\PetiZad\obj\Debug\PetiZad.exe
+C:\Users\Lenovo\Documents\GitHub\2_DZ\PetiZad\obj\Debug\PetiZad.pdb
