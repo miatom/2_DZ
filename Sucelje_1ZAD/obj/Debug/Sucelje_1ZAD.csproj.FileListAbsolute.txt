@@ -7,3 +7,11 @@ C:\Users\Lenovo\Google disk\faks\c#\2_DZ\Sucelje_1ZAD\bin\Debug\IGenericList.pdb
 C:\Users\Lenovo\Google disk\faks\c#\2_DZ\Sucelje_1ZAD\obj\Debug\Sucelje_1ZAD.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo\Google disk\faks\c#\2_DZ\Sucelje_1ZAD\obj\Debug\Sucelje_1ZAD.dll
 C:\Users\Lenovo\Google disk\faks\c#\2_DZ\Sucelje_1ZAD\obj\Debug\Sucelje_1ZAD.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\Sucelje_1ZAD\bin\Debug\Sucelje_1ZAD.dll
+C:\Users\Lenovo\Documents\GitHub\2_DZ\Sucelje_1ZAD\bin\Debug\Sucelje_1ZAD.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\Sucelje_1ZAD\bin\Debug\PrviZad.dll
+C:\Users\Lenovo\Documents\GitHub\2_DZ\Sucelje_1ZAD\bin\Debug\PrviZad.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\Sucelje_1ZAD\bin\Debug\IGenericList.pdb
+C:\Users\Lenovo\Documents\GitHub\2_DZ\Sucelje_1ZAD\obj\Debug\Sucelje_1ZAD.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\2_DZ\Sucelje_1ZAD\obj\Debug\Sucelje_1ZAD.dll
+C:\Users\Lenovo\Documents\GitHub\2_DZ\Sucelje_1ZAD\obj\Debug\Sucelje_1ZAD.pdb

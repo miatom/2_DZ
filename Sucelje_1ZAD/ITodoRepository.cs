@@ -113,6 +113,10 @@ namespace Interfaces
             else
             {
                 todoItem.DateCreated=DateTime.Now;
+                todoItem.DateCompleted = DateTime.Now;
+                todoItem.Id = Guid.NewGuid();
+                todoItem.IsCompleted = true;
+                todoItem.Text = "update complete";
             }
            
         }
